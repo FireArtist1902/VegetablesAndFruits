@@ -30,8 +30,6 @@ namespace VegetablesAndFruits
                     Console.WriteLine("10.Показати овочі та фрукти з калорійністю нижче вказаної");
                     Console.WriteLine("11.Показати овочі та фрукти з калорійністю вище вказаної.");
                     Console.WriteLine("12.Показати овочі та фрукти з калорійністю у вказаному діапазоні.");
-                    Console.WriteLine("13.Відображення усіх кольорів");
-                    Console.WriteLine("14.Відображення усіх кольорів");
                     int choice = Convert.ToInt32(Console.ReadLine());
                     if (choice == 0)
                     {
